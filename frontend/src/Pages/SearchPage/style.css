@@ -1,0 +1,10 @@
+.searchWrap{
+    display: flex;
+    justify-content: center;
+    width: auto;
+    height: 50px;
+}
+.searchWrap input{
+    border-radius: 5%;
+    border: 2px solid rgb(172, 160, 160);
+}

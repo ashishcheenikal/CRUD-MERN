@@ -1,0 +1,16 @@
+.formContainer{
+    padding: 5rem;
+    height: 100vh;
+}
+
+.formElements{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 1rem;
+    gap: 1.5rem;
+    width: 350px;
+}
+.formWrap{
+    padding: 5rem;
+}

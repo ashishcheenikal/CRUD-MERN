@@ -1,0 +1,21 @@
+.card-body{
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(217, 241, 176);
+}
+.card-title{
+  height: 5rem;
+}
+.btnWrap{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 1rem;
+}
+.title {
+  display: flex;
+  justify-content: center;
+}
+.noData{
+display: flex;
+justify-content: center;
+}
